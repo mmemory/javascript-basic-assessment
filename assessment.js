@@ -68,7 +68,7 @@ for(item in snake) {
 
 // #7 Create an array of strings that are the 6 primary colors (lower-case). Call your array primaryColors
 
-var primaryColors = ['red','orange','yellow','green','blue','indigo','violet'];
+var rainbowColors = ['red','orange','yellow','green','blue','indigo','violet'];
 
 
 // #8 Using this array do the following
